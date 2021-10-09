@@ -1,1 +1,1 @@
-#empty file
+from ../module_a import polynom_3
